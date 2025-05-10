@@ -1,0 +1,9 @@
+## Realisation du Blog Symfony ##
+1- Installation de Symfony : symfony new monblog --webapp
+2- Création du dépot sur Github
+3- Relier le dépot du dev : git remote add origin https://github.com/teydes/monblog.git
+4- git add . pour traquer tous les fichiers non ajoutés
+5- Rajouter .idea/ à gitignore (phpstorm)
+6- git status Pour le vérifier
+7- git commit -m "nom du commit"
+8- git push --set-upstream origin master
